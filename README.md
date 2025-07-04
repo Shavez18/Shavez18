@@ -5,7 +5,7 @@
 
 🎓 MSc Student in Artificial Intelligence & Machine Learning  
 🏫 College of Jamia Millia Islamia, New Delhi  
-📊 Aspiring Data Scientist | 🤖 AI & ML Enthusiast | 📚 Lifelong Learner
+📊 Data Scientist | 🤖 AI & ML Enthusiast | 📚 Lifelong Learner
 
 ---
 
